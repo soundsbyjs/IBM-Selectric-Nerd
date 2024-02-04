@@ -2,7 +2,7 @@
 
 I'm obsessed with terminal fonts.
 
-TODO: Make an AUR installer
+This is not the right font.
 
 # installation
 
